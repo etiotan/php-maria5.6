@@ -70,4 +70,5 @@
     </Directory>
 
 sudo systemctl restart httpd
+
 sudo systemctl restart mariadb
